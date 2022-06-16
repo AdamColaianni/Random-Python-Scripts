@@ -83,7 +83,6 @@ def text_color():
     return output
 
 def text_bg_color():
-    # This prints out all of their options for the style of the text.
     print("""Please select the text color you want.
     \x1b[0;37;40mBlack\x1b[0;0m: 0
     \x1b[0;30;41mRed\x1b[0;0m: 1
